@@ -1,0 +1,13 @@
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\TDTU\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\TDTU\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\TDTU\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDataGrid.resources
+D:\TDTU\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources

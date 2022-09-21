@@ -1,0 +1,14 @@
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.exe.config
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.exe
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.pdb
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Demo1.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.exe
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.pdb
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form4.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form5.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form6.resources
