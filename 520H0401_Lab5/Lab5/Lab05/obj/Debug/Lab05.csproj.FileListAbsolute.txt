@@ -1,0 +1,16 @@
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\bin\Debug\Lab05.exe.config
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\bin\Debug\Lab05.exe
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\bin\Debug\Lab05.pdb
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.frmEmployee.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.exe
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.pdb
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.frmDeptEmp.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.FormEx3_2.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.FormEx3_1.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.Form2_1.resources
+D:\TDTU\CNPM\TH\Lab05\Lab5\Lab05\obj\Debug\Lab05.Form2_2.resources
