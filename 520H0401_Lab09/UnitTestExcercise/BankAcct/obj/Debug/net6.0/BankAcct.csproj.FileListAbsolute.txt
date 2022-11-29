@@ -1,0 +1,15 @@
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\bin\Debug\net6.0\BankAcct.exe
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\bin\Debug\net6.0\BankAcct.deps.json
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\bin\Debug\net6.0\BankAcct.runtimeconfig.json
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\bin\Debug\net6.0\BankAcct.dll
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\bin\Debug\net6.0\BankAcct.pdb
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.csproj.AssemblyReference.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.AssemblyInfoInputs.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.AssemblyInfo.cs
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.csproj.CoreCompileInputs.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.dll
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\refint\BankAcct.dll
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.pdb
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\BankAcct.genruntimeconfig.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\BankAcct\obj\Debug\net6.0\ref\BankAcct.dll

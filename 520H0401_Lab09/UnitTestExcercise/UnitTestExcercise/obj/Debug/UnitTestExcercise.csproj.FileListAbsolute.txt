@@ -1,0 +1,24 @@
+C:\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.pdb
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csprojAssemblyReference.cache
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.CoreCompileInputs.cache
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.exe
+D:\_Teach\01.TDT.SE\502045_CNPM\_SE.CLC\Labs-CNPM\Lab09\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.pdb
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.pdb
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.AssemblyReference.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.SuggestedBindingRedirects.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.CoreCompileInputs.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.exe
+D:\1.TDTU\2.CNPM\TH\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.pdb
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.pdb
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.AssemblyReference.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.SuggestedBindingRedirects.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csproj.CoreCompileInputs.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.exe
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\Lab9\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.pdb
