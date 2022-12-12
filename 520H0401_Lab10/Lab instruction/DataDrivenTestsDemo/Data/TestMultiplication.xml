@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<data>
+    <row>
+        <ar>1</ar>
+        <ai>2</ai>
+        <br>0</br>
+        <bi>0</bi>
+        <er>0</er>
+        <ei>0</ei>
+    </row>
+    <row>
+        <ar>1</ar>
+        <ai>2</ai>
+        <br>1</br>
+        <bi>0</bi>
+        <er>1</er>
+        <ei>2</ei>
+    </row>
+    <row>
+        <ar>1</ar>
+        <ai>2</ai>
+        <br>0</br>
+        <bi>1</bi>
+        <er>-2</er>
+        <ei>1</ei>
+    </row>
+    <row>
+        <ar>1</ar>
+        <ai>2</ai>
+        <br>3</br>
+        <bi>4</bi>
+        <er>-5</er>
+        <ei>10</ei>
+    </row>
+</data>

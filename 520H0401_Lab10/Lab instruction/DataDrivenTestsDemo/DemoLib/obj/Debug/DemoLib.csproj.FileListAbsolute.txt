@@ -1,0 +1,6 @@
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\bin\Debug\DemoLib.dll
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\bin\Debug\DemoLib.pdb
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\obj\Debug\DemoLib.csproj.AssemblyReference.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\obj\Debug\DemoLib.csproj.CoreCompileInputs.cache
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\obj\Debug\DemoLib.dll
+D:\1.TDTU\2.CNPM\2.QT2 (TH)\New folder\DataDrivenTestsDemo\DemoLib\obj\Debug\DemoLib.pdb

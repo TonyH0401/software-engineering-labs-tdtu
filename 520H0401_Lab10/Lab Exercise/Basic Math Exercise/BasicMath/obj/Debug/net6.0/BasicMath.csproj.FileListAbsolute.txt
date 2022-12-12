@@ -1,0 +1,15 @@
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\bin\Debug\net6.0\BasicMath.exe
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\bin\Debug\net6.0\BasicMath.deps.json
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\bin\Debug\net6.0\BasicMath.runtimeconfig.json
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\bin\Debug\net6.0\BasicMath.dll
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\bin\Debug\net6.0\BasicMath.pdb
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.csproj.AssemblyReference.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfoInputs.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfo.cs
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.csproj.CoreCompileInputs.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.dll
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\refint\BasicMath.dll
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.pdb
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\BasicMath.genruntimeconfig.cache
+D:\1.TDTU\2.CNPM\TH\Lab9\Ex1\BasicMath\obj\Debug\net6.0\ref\BasicMath.dll
